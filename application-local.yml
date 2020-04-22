@@ -1,0 +1,3 @@
+mqtt:
+ maxInflight: 32000
+ publishUri: tcp://localhost:1883
