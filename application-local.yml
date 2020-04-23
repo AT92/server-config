@@ -2,7 +2,7 @@ mqtt:
  maxInflight: 64001
  publishUri: tcp://localhost:1883
  subscriptionUris: tcp://localhost:1883
- topics: "/hi"
+ topics: "/hi;/audit/#"
 
 rest:
  timeout: 40
