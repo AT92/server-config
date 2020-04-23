@@ -3,4 +3,4 @@ mqtt:
  publishUri: tcp://localhost:1883
 
 rest:
- timeout: 30
+ timeout: 40
