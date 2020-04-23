@@ -1,3 +1,6 @@
 mqtt:
  maxInflight: 64001
  publishUri: tcp://localhost:1883
+
+rest:
+ timeout: 10
